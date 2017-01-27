@@ -6,31 +6,31 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-ruby -v
-ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-darwin16]
-rails -v
-Rails 4.2.0
+ruby -v  
+ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-darwin16]  
+rails -v  
+Rails 4.2.0  
 
 * System dependencies
-macOS Sierra 10.12.2
+macOS Sierra 10.12.2  
 
 * Configuration
-default rails g
+default rails g  
 
 * Database creation
 
 * Database initialization
 
 * How to run the test suite
-n/a
+n/a  
 
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
 
 * ...
-I am following this tutorial: https://youtu.be/BI_VnnOLSKY
-My aim is to get a hands on feel for building a blog with Ruby on Rails so I can help integrate a Blog With Tags in a friends project
+I am following this tutorial: https://youtu.be/BI_VnnOLSKY  
+My aim is to get a hands on feel for building a blog with Ruby on Rails so I can help integrate a Blog With Tags in a friends project.  
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
