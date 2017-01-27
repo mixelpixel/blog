@@ -29,7 +29,7 @@ n/a
 * Deployment instructions
 
 * ...
-I am following this tutorial: https://youtu.be/BI_VnnOLSKY  
+I am following this tutorial: https://youtu.be/BI_VnnOLSKY   
 My aim is to get a hands on feel for building a blog with Ruby on Rails so I can help integrate a Blog With Tags in a friends project.  
 
 Please feel free to use a different markup language if you do not plan to run
