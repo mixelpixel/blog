@@ -16,10 +16,10 @@
 !/log/.keep
 /tmp
 
-# vim
+# Ignore vim
 *~
 *.swp
 *.swo
 
-# macOS
+# Ignore macOS
 .DS_Store
